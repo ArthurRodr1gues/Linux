@@ -1,1 +1,1 @@
-### Abrindo interface do terminal local : `xdg-open`
+### + Abrindo interface do terminal local : `xdg-open`
